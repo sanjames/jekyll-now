@@ -9,5 +9,6 @@ This is kind of scary to me. But, I'm going to do it afraid. Last 1+years, I'm i
 
 Now, I want to go to a new level of learning in really planning, committing and doing data projects for 100days.
 
-##Best is yet to come.
-
+## Best is yet to come. ##
+----
+****
