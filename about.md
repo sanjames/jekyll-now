@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am Sangeetha James. My career started as a developer in Mainframe followed by Java applications, where I played different roles of Product Support Engineer, Business Analyst working for different organizations/clients. I really wanted to take a break in what I was doing and started investing in learning & sharpening my skills. I ended up learning Python and started into Data Analytics. I love observing data and finding any insights that I can get out of it. I'm also learning to become a Machine learning enthusiast and try to see what I can do with this learning... Best is yet to come
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+https://www.linkedin.com/in/sangeethajames/
