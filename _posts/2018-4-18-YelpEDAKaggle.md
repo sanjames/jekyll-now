@@ -9,6 +9,7 @@ My analysis and EDA (to be continued) is available in github <https://bit.ly/2J6
 
 Kaggle had the csv format (though I dont find the data to be accurate) and my analysis is in <https://bit.ly/2HBvSJ9>
 
-## Start where you are. Use what you have. Do what you can. ## Arthur Ashe
+## Start where you are. Use what you have. Do what you can. 
+- Arthur Ashe
 ----
 ****
